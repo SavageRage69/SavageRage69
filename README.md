@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="badges">
-  <a href="https://savagerage.newgrounds.com/">
+  <a href="https://savagerage.newgrounds.com/" target="_blank">
     <img src="https://img.shields.io/badge/Newgrounds-orange?style=for-the-badge&logo=&logoColor=white" alt="Badge"/>
    </a>
   <a href="https://www.youtube.com/channel/UC-0uLOU5qBz5PbzQ9tUzHbQ">

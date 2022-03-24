@@ -18,6 +18,7 @@
 ### :man_technologist: About Me :
 - 🔭 I’m currently working on Dm_Race and Delivery Dating
 - 🌱 I’m currently learning Python, Lua and JS
+- ⚡ Fun fact: I like math and 
 
 <br><br>
 

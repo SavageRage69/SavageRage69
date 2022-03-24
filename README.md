@@ -33,12 +33,19 @@
 
 <br><br>
 
-📈 My Github Stats: 
+📈 My Github Stats:
 
+<br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SavageRage69&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavageRage69&layout=compact" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SavageRage69&show_icons=true&theme=aura_dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavageRage69&layout=compact&langs_count=8&theme=aura_dark" />
+</a>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SavageRage69&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavageRage69&layout=compact" />
 
-
+-->
 <!--
 **SavageRage69/SavageRage69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -24,6 +24,11 @@
 
 ## Latest Youtube Videos 
 <!-- YOUTUBE:START -->
+- [Delivery Madness Speedrun &lpar;for Speedrun.com game acceptor people&rpar;](https://www.youtube.com/watch?v=ljC-MYNVcxE)
+- [MineSweeper [WR] [69 SECONDS] [SLOWEST TIME ON SPEEDRUN.COM]](https://www.youtube.com/watch?v=B1Fb1VjSlhU)
+- [le french [TABG]](https://www.youtube.com/watch?v=xvEjhF3j2z4)
+- [BIG SHAQ - I SMOKE 😳 [officiel]](https://www.youtube.com/watch?v=cM8PNri1G3Y)
+- [Minecraft Video](https://www.youtube.com/watch?v=6xIuEz-BRwo)
 <!-- YOUTUBE:END -->
 
 ### Languages and Tools I use :
